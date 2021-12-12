@@ -1,0 +1,578 @@
+[{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0101"
+  },
+  "username": "Dr. Turguman",
+  "image": "1.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u",
+  "phone": "0526538500",
+  "email": "Turguman@appleseeds.org.il",
+  "specalist": "Allergists",
+  "experince" : "20 years",
+  "cases" : ["asthma","eczema","food allergies","insect sting allergies"],
+  "description" : "a Speacalist in immune system disorders such as asthma, eczema, food allergies, insect sting allergies, and some autoimmune diseases.",
+  "age": 31
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0102"
+  },
+  "username": "Dr. Rada",
+  "image": "2.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u",
+  "phone": "0526538500",
+  "email": "Rada@appleseeds.org.il",
+  "specalist": "Anesthesiologists",
+  "experince" : "30 years",
+  "cases" : ["surgery"," childbirth"],
+  "description" : "specalist in druging to numb your pain or to put you under during surgery, childbirth, or other procedures. They monitor your vital signs while you’re under anesthesia.",
+  "age": 34
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0103"
+  },
+  "username": "Dr. Meriam",
+  "image": "3.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u",
+  "phone": "0526538500",
+  "email": "Meriam@appleseeds.org.il",
+  "specalist": "Cardiologists",
+  "experince" : "10 years",
+  "cases" : ["heart failure","heart attack","high blood pressure"," irregular heartbeat"],
+  "description" : "an experts on the heart and blood vessels. You might see them for heart failure, a heart attack, high blood pressure, or an irregular heartbeat.",
+  "age": 29
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0104"
+  },
+  "username": "Dr. Kablan",
+  "image": "4.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u",
+  "phone": "0526538500",
+  "email": "Kablan@appleseeds.org.il",
+  "specalist": "Colon and Rectal Surgeons",
+  "experince" : "20 years",
+  "cases" : ["colon","bottom","colon cancer","hemorrhoids","inflammatory bowel disease"],
+  "description" : "a Speacalist in your small intestine, colon, and bottom. They can treat colon cancer, hemorrhoids, and inflammatory bowel disease.",
+  "age": 29
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0105"
+  },
+  "username": "Dr. Lahiani",
+  "image": "5.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u",
+  "phone": "0526538500",
+  "email": "Lahiani@appleseeds.org.il",
+  "specalist": "Critical Care Medicine Specialists",
+  "experince" : "20 years",
+  "cases" : ["critically ill","injured"," heart failur","accident"],
+  "description" : "a Speacalist in care for people who are critically ill or injured, often heading intensive care units in hospitals. You might see them if your heart or other organs are failing or if you’ve been in an accident.",
+  "age": 31
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0106"
+  },
+  "username": "Dr. Amer",
+  "image": "6.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u",
+  "phone": "0526538500",
+  "email": "Ameer@appleseeds.org.il",
+  "specalist": "Dermatologists",
+  "experince" : "20 years",
+  "cases" : ["skin","hair","nails"," moles","scars","acne","skin allergies"],
+  "description" : "Have problems with your skin, hair, nails? Do you have moles, scars, acne, or skin allergies? Dermatologists can help.",
+  "age": 28
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0107"
+  },
+  "username": "Dr. Hamid",
+  "image": "7.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u",
+  "phone": "0526538500",
+  "email": "Hamid@appleseeds.org.il",
+  "specalist": "Endocrinologists",
+  "experince" : "20 years",
+  "cases" : ["hormones","metabolism"," diabetes","thyroid problems"," infertility","calcium disorders","bone disorders"],
+  "description" : "expert on hormones and metabolism. They can treat conditions like diabetes, thyroid problems, infertility, and calcium and bone disorders",
+  "age": 31
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0108"
+  },
+  "username": "Dr. Aweda",
+  "image": "8.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u",
+  "phone": "0526538500",
+  "email": "Aweda@appleseeds.org.il",
+  "specalist": "Emergency Medicine Specialists",
+  "experince" : "10 years",
+  "cases" : ["sick ","injured"],
+  "description" : "a Speacalist in makeing life-or-death decisions for sick and injured people, usually in an emergency room. Their job is to save lives and to avoid or lower the chances of disability.",
+  "age": 26
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0109"
+  },
+  "username": "Dr. Dagash",
+  "image": "9.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u",
+  "phone": "0526538500",
+  "email": "Dagash@appleseeds.org.il",
+  "specalist": "Family Physicians",
+  "experince" : "20 years",
+  "cases" : ["family","checkup","screening test"," flu"," immunization shots","diabetes"],
+  "description" : "a Speacalist in care for the whole family, including children, adults, and the elderly. They do routine checkups and screening tests, give you flu and immunization shots, and manage diabetes and other ongoing medical conditions.",
+  "age": 48
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0110"
+  },
+  "username": "Dr. Halabi",
+  "image": "10.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Halabi@appleseeds.org.il",
+  "specalist": "Gastroenterologists",
+  "experince" : "20 years",
+  "cases" : ["digestive organs","stomach","bowels","pancreas","liver","gallbladder","abdominal pain","ulcers","diarrhea","jaundice","colon cancer","colonoscopy"],
+  "description" : "a Speacalist digestive organs, including the stomach, bowels, pancreas, liver, and gallbladder. You might see them for abdominal pain, ulcers, diarrhea, jaundice, or cancers in your digestive organs. They also do a colonoscopy and other tests for colon cancer.",
+  "age": 31
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0111"
+  },
+  "username": "Dr. Jlaa",
+  "image": "11.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Jlaa@appleseeds.org.il",
+  "specalist": "Geriatric Medicine Specialists",
+  "experince" : "20 years",
+  "cases" : ["elder","living center"],
+  "description" : "a specakisit in care for the elderly. They can treat people in their homes, doctors' offices, nursing homes, assisted-living centers, and hospitals.",
+  "age": 37
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0112"
+  },
+  "username": "Dr. Araede",
+  "image": "12.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Araede@appleseeds.org.il",
+  "specalist": "Hematologists",
+  "experince" : "15 years",
+  "cases" : ["diseases","spleen","lymph gland","sickle cell disease","anemia","hemophilia","leukemia"],
+  "description" : "a Speacalist in diseases of the blood, spleen, and lymph glands, like sickle cell disease, anemia, hemophilia, and leukemia.",
+  "age": 27
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0113"
+  },
+  "username": "Dr. Habish",
+  "image": "13.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Habish@appleseeds.org.il",
+  "specalist": "Hospice and Palliative Medicine Specialists",
+  "experince" : "10 years",
+  "cases" : ["pain","death"],
+  "description" : "a Speacalist in work with people who are nearing death. They’re experts in pain management. They work with a team of other doctors to keep up your quality of life.",
+  "age": 24
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0114"
+  },
+  "username": "Dr. Araedi",
+  "image": "14.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Araedi@appleseeds.org.il",
+  "specalist": "Infectious Disease Specialists",
+  "experince" : "20 years",
+  "cases" : ["diagnose","infections"," fever","lyme disease","pneumonia","tuberculosis","HIV","AIDS","preventive medicine","travel medicine"],
+  "description" : "a Speacalist in diagnose and treat infections in any part of your body, like fevers, Lyme disease, pneumonia, tuberculosis, and HIV and AIDS. Some of them specialize in preventive medicine or travel medicine",
+  "age": 31
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0115"
+  },
+  "username": "Dr. Farag",
+  "image": "15.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Farag@appleseeds.org.il",
+  "specalist": "Internists",
+  "experince" : "15 years",
+  "cases" : ["illnesses","heart disease","cancer","adolescent","sleep","cardiology","gastroenterology","endocrinology","nephrology","pulmonology"],
+  "description" : "a Speacalist in primary-care doctors treat both common and complex illnesses, usually only in adults. You’ll likely visit them or your family doctor first for any condition. Internists often have advanced training in a host of subspecialties, like heart disease, cancer, or adolescent or sleep medicine. With additional training (called a fellowship), internists can specialize in cardiology, gastroenterology, endocrinology, nephrology, pulmonology, and other medical sub-specialties.",
+  "age": 28
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0116"
+  },
+  "username": "Dr. Tareef",
+  "image": "16.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Tareef@appleseeds.org.il",
+  "specalist": "Nephrologists",
+  "experince" : "15 years",
+  "cases" : ["disease","blood pressure","fluid","mineral imbalances"],
+  "description" : "a Speacalist in treat kidney diseases as well as high blood pressure and fluid and mineral imbalances linked to kidney disease..",
+  "age": 28
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0117"
+  },
+  "username": "Dr. Lala",
+  "image": "17.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Lala@appleseeds.org.il",
+  "specalist": "Neurologists",
+  "experince" : "20 years",
+  "cases" : ["nerves","brain","spinal cord","strokes","spinal tumors"," epilepsy","parkinson"," alzheimer"],
+  "description" : "a Speacalist in the nervous system, which includes the brain, spinal cord, and nerves. They treat strokes, brain and spinal tumors, epilepsy, Parkinson's disease, and Alzheimer's disease.",
+  "age": 31
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0118"
+  },
+  "username": "Dr. Zaher",
+  "image": "18.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Zaher@appleseeds.org.il",
+  "specalist": "Obstetricians and Gynecologists",
+  "experince" : "20 years",
+  "cases" : ["women","pap smears","pelvic exams","pregnancy"],
+  "description" : "focus on women's health, including pregnancy and childbirth. They do Pap smears, pelvic exams, and pregnancy checkups. OB/GYNs are trained in both areas. But some of them may focus on women's reproductive health (gynecologists), and others specialize in caring for pregnant women (obstetricians).",
+  "age": 31
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0119"
+  },
+  "username": "Dr. Ghanem",
+  "image": "19.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Ghanem@appleseeds.org.il",
+  "specalist": "Oncologists",
+  "experince" : "10 years",
+  "cases" : ["cancer","chemotherapy treatments","radiation oncologists","surgeons"],
+  "description" : "a Speacalist in chemotherapy treatments and often work with radiation oncologists and surgeons to care for someone with cancer.",
+  "age": 27
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0120"
+  },
+  "username": "Dr. Ayal",
+  "image": "20.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Ayal@appleseeds.org.il",
+  "specalist": "Ophthalmologists",
+  "experince" : "15 years",
+  "cases" : ["eye","glasses","glaucoma","surgeons"],
+  "description" : "eye doctor. They can prescribe glasses or contact lenses and diagnose and treat diseases like glaucoma. Unlike optometrists, they’re medical doctors who can treat every kind of eye condition as well as operate on the eyes.",
+  "age": 31
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0121"
+  },
+  "username": "Dr. Nasr",
+  "image": "21.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Nasr@appleseeds.org.il",
+  "specalist": "Osteopaths",
+  "experince" : "15 years",
+  "cases" : ["osteopathic","body","osteopaths","natural"],
+  "description" : "Doctor of osteopathic medicine (DO) are fully licensed medical doctors just like MDs. Their training stresses a “whole body” approach. Osteopaths use the latest medical technology but also the body’s natural ability to heal itself.",
+  "age": 29
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0122"
+  },
+  "username": "Dr. Evgeni",
+  "image": "22.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Evgeni@appleseeds.org.il",
+  "specalist": "Otolaryngologists",
+  "experince" : "20 years",
+  "cases" : ["ears","nose","throat","sinuses","head","neck","respiratory system","plastic surgery"],
+  "description" : "a Speacalist in treat diseases in the ears, nose, throat, sinuses, head, neck, and respiratory system. They also can do reconstructive and plastic surgery on your head and neck.",
+  "age": 31
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0123"
+  },
+  "username": "Dr. Siwar",
+  "image": "23.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Siwar@appleseeds.org.il",
+  "specalist": "Pathologists",
+  "experince" : "20 years",
+  "cases" : ["lab","microscope"],
+  "description" : "a lab doctors identify the causes of diseases by examining body tissues and fluids under microscopes.",
+  "age": 29
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0124"
+  },
+  "username": "Dr. Lavine",
+  "image": "24.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Lavine@appleseeds.org.il",
+  "specalist": "Pediatricians",
+  "experince" : "20 years",
+  "cases" : ["children","birth","child abuse","developmental issues"],
+  "description" : "a Speacalist in care for children from birth to young adulthood. Some pediatricians specialize in pre-teens and teens, child abuse, or children's developmental issues.",
+  "age": 35
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0125"
+  },
+  "username": "Dr. Safadi",
+  "image": "25.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Safadi@appleseeds.org.il",
+  "specalist": "Physiatrists",
+  "experince" : "20 years",
+  "cases" : ["physical","rehabilitation","neck","back pain","spinal cord"],
+  "description" : "a Speacalist in physical medicine and rehabilitation treat neck or back pain and sports or spinal cord injuries as well as other disabilities caused by accidents or diseases.",
+  "age": 35
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0126"
+  },
+  "username": "Dr. Batheesh",
+  "image": "26.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Batheesh@appleseeds.org.il",
+  "specalist": "Plastic Surgeons",
+  "experince" : "20 years",
+  "cases" : ["cosmetic","skin","face","hands","breasts"],
+  "description" : "a Speacalist in cosmetic surgeons. They rebuild or repair your skin, face, hands, breasts, or body. That can happen after an injury or disease or for cosmetic reasons.",
+  "age": 31
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0127"
+  },
+  "username": "Dr. Majd",
+  "image": "27.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Majd@appleseeds.org.il",
+  "specalist": "Podiatrists",
+  "experince" : "20 years",
+  "cases" : ["ankles","feet","injuries","accident","diabetes"],
+  "description" : "a Speacalist in care for problems in your ankles and feet. That can include injuries from accidents or sports or from ongoing health conditions like diabetes. Some podiatrists have advanced training in other subspecialties of the foot.",
+  "age": 34
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0128"
+  },
+  "username": "Dr. Abo",
+  "image": "28.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Abo@appleseeds.org.il",
+  "specalist": "Preventive Medicine Specialists",
+  "experince" : "25 years",
+  "cases" : ["health","treating","addictions","illnesses","poisons","drugs"],
+  "description" : "a Speacalist in keeping you well. They may work in public health or at hospitals. Some focus on treating people with addictions, illnesses from exposure to drugs, chemicals, and poisons, and other areas.",
+  "age": 50
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0129"
+  },
+  "username": "Dr. Ibrahim",
+  "image": "29.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Ibrahim@appleseeds.org.il",
+  "specalist": "Psychiatrists",
+  "experince" : "20 years",
+  "cases" : ["mental","emotional","addictive disorders","diagnose","depression","schizophrenia","substance abuse","anxiety disorders","gender identity"],
+  "description" : "a Speacalist in  work with people with mental, emotional, or addictive disorders. They can diagnose and treat depression, schizophrenia, substance abuse, anxiety disorders, and sexual and gender identity issues. Some psychiatrists focus on children, adolescents, or the elderly",
+  "age": 33
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0130"
+  },
+  "username": "Dr. Naman",
+  "image": "30.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Naman@appleseeds.org.il",
+  "specalist": "Pulmonologists",
+  "experince" : "40 years",
+  "cases" : ["lung cancer","pneumonia","asthma","emphysema","breathing issues"],
+  "description" : "a Speacalist in problems like lung cancer, pneumonia, asthma, emphysema, and trouble sleeping caused by breathing issues.",
+  "age": 67
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0131"
+  },
+  "username": "Dr. Alaa",
+  "image": "31.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Alaa@appleseeds.org.il",
+  "specalist": "Radiologists",
+  "experince" : "30 years",
+  "cases" : ["X-rays","ultrasound","imaging tests","radiation oncology"],
+  "description" : "a Speacalist in X-rays, ultrasound, and other imaging tests to diagnose diseases. They can also specialize in radiation oncology to treat conditions like cancer.",
+  "age": 39
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0132"
+  },
+  "username": "Dr. Shihab",
+  "image": "32.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Shihab@appleseeds.org.il",
+  "specalist": "Rheumatologists",
+  "experince" : "20 years",
+  "cases" : ["arthritis","joints","muscles","bones","tendons","osteoporosis","back pain","gout","tendinitis","repetitive injuries","fibromyalgia"],
+  "description" : "a Speacalist in arthritis and other diseases in your joints, muscles, bones, and tendons. You might see them for your osteoporosis (weak bones), back pain, gout, tendinitis from sports or repetitive injuries, and fibromyalgia.",
+  "age": 35
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0133"
+  },
+  "username": "Dr. Zahi",
+  "image": "33.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Zahi@appleseeds.org.il",
+  "specalist": "Sleep Medicine Specialists",
+  "experince" : "20 years",
+  "cases" : ["sleep"],
+  "description" : "a Speacalist in treat causes behind your poor sleep. They may have sleep labs or give you take-home tests to chart your sleep-wake patterns.",
+  "age": 35
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0134"
+  },
+  "username": "Dr. Wael",
+  "image": "34.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Wael@appleseeds.org.il",
+  "specalist": "Sports Medicine Specialists",
+  "experince" : "10 years",
+  "cases" : ["diagnose","treat","injuries","sports"],
+  "description" : "a Speacalist in diagnose, treat, and prevent injuries related to sports and exercise.",
+  "age": 34
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0135"
+  },
+  "username": "Dr. Shani",
+  "image": "35.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Shani@appleseeds.org.il",
+  "specalist": "General Surgeons",
+  "experince" : "20 years",
+  "cases" : ["body","tumors","appendices"," gallbladders","hernias"," vascular surgery"],
+  "description" : "a Speacalist in operate on all parts of your body. They can take out tumors, appendices, or gallbladders and repair hernias. Many surgeons have subspecialties, like cancer, hand, or vascular surgery",
+  "age": 45
+},{
+  "_id": {
+    "$oid": "61922cf304e280bacfce0136"
+  },
+  "username": "Dr. Timor",
+  "image": "36.jpg",
+  "role": 1,
+  "patients" :[],
+  "password" : "$2a$10$0e04VGB1KZDJXf2ZTKoAP.Lu43qthmHBNnHUTuDbR8yB/9mbCNN8u,",
+  "phone": "0526538500",
+  "email": "Timor@appleseeds.org.il",
+  "specalist": "Urologists",
+  "experince" : "20 years",
+  "cases" : ["urinary tract","leaky bladder","infertility","prostate"],
+  "description" : "a Speacalist in surgeons who care for men and women for problems in the urinary tract, like a leaky bladder. They also treat male infertility and do prostate exams.",
+  "age": 30
+}
+]

@@ -1,0 +1,9 @@
+.signup-container {
+    height:100%;
+    background-image:url('./images/sign.jpg');
+    background-repeat:no-repeat; 
+    background-position:center;
+    background-size:cover;
+    opacity: 0.8
+    
+}

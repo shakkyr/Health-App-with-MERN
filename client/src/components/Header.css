@@ -1,0 +1,8 @@
+.nav-item .dropdown {
+    display: block;
+    position: absolute;
+ }
+
+ .logout{
+     right: 0;
+ }

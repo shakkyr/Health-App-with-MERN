@@ -1,0 +1,7 @@
+.home-container {
+    background-image:url('./images/health1.jpg');
+    background-repeat:no-repeat; 
+    background-position:center;
+    background-size:cover;
+    opacity: 0.8
+}

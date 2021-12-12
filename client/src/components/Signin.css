@@ -1,0 +1,8 @@
+.signin-container {
+    background-image:url('./images/signin.jpg');
+    background-repeat:no-repeat; 
+    background-position:center;
+    background-size:cover;
+    opacity: 0.8
+    
+}
